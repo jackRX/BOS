@@ -1,0 +1,37 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+bos-dao/target/
+bos-service/target/
+bos-domain/target/
+bos-management/src/main/resources/static/WEB-INF/
+bos-management/src/test/
+src/test/
+bos-dao/src/main/resources/
+bos-dao/src/test/
+bos-domain/src/main/resources/
+bos-domain/src/test/
+bos-service/src/main/resources/
+bos-service/src/test/
